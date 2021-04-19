@@ -1,0 +1,1 @@
+dinh nghia cac color, font style
